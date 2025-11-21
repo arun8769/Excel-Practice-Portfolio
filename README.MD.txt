@@ -1,4 +1,4 @@
-# Excel Practice Project
+# Excel Practice Project delet
 
 इस प्रोजेक्ट में मैंने Excel के कई महत्वपूर्ण टॉपिक्स की प्रैक्टिस की है जिन्हें हर Data Analyst को अच्छे से आना चाहिए।  
 डेटा बिलकुल रियल-लाइफ जैसा है ताकि असली काम जैसा अनुभव मिले।
@@ -50,37 +50,4 @@
   - Line Chart  
   - Pie Chart  
   - Bar Chart  
-- Interactive dashboard design  
-
----
-
-## 🎯 Skills Covered
-- Data Entry  
-- Data Cleaning  
-- Data Analysis  
-- Formulas  
-- Pivot Table  
-- Dashboard Designing  
-
----
-
-## 📁 Included Files
-- Excel Practice Dataset  
-- Cleaned Data Sheet  
-- Pivot Table Report  
-- Dashboard Sheet  
-
----
-
-## 🧑‍💻 Use Case
-यह प्रोजेक्ट बिल्कुल beginner-friendly है और  
-- Interview  
-- Freelancing  
-- Portfolio  
-- Practice  
-सबके लिए perfect है।
-
----
-
-## 🤝 Support
-अगर कहीं अटक जाओ, पूछ लेना भाई — मैं साथ हूँ।
+- Interactiv
